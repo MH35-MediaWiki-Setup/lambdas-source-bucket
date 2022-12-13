@@ -1,0 +1,2 @@
+# lambdas-source-bucket
+Lambdaのソースバケット
